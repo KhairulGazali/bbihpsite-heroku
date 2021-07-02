@@ -1,1 +1,1 @@
-web: gunicorn bbihpsite.wsgi --log-file-
+web: gunicorn bbihpsite.wsgi
